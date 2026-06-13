@@ -28,6 +28,4 @@ SQL-based blockchain analytics using Dune and Flipside.
 
 ## Contact
 
-LinkedIn: Coming Soon
 
-Payment: USDT / USDC accepted
